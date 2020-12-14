@@ -1,5 +1,10 @@
 def looping
-	#your code here
+	loop do
+		 "Never pass a school bus if it has flashing red lights"
+	end
+
 end
 
+
+looping
 #call your method here
